@@ -220,13 +220,11 @@ agrees to enter into this Agreement as of the Effective Date.
 </tbody>
 </table>
 
-# 
+# Cloud Service Agreement
 
-Cloud Service Agreement
+# 1. **Service** 
 
-# **Service** 
-
-## <u>Access and Use</u>. During the **Subscription** **Period**, **Customer** may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes and only if **Customer** complies with the terms of this Agreement. 
+## 1.1 <u>Access and Use</u>. During the **Subscription** **Period**, **Customer** may (a) access and use the Cloud Service; and (b) copy and use the included Software and Documentation only as needed to access and use the Cloud Service, in each case, for its internal business purposes and only if **Customer** complies with the terms of this Agreement. 
 
 ## <u>Service Level</u>. If there is an **SLA** and the Cloud Service does not meet the **SLA**, **Provider** will provide the remedies outlined in the **SLA** and will not be responsible for any other remedies. Any credits earned under the **SLA** will only apply to future invoices and expire if the Agreement ends. In any event, if the Cloud Service is temporarily unavailable for scheduled maintenance, for unscheduled emergency maintenance, or because of other causes beyond **Provider’s** reasonable control, no **SLA** remedies will accrue. **Provider** will try to inform **Customer** before scheduled service disruptions through the Cloud Service or by email.
 
