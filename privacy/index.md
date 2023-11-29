@@ -1,5 +1,7 @@
 *Last updated: November 24, 2023*
 
+# Privacy Policy
+
 The privacy of your data is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data.
 
 This policy applies to all products built and maintained by Schematic Inc. (”Schematic”).

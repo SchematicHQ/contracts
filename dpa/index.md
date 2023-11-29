@@ -1,24 +1,6 @@
-**DATA PROCESSING ADDENDUM**
+# DATA PROCESSING ADDENDUM
 
-This Data Processing Addendum (“**DPA**”) is incorporated into and
-supplements the Cloud Services Agreement (“**Agreement**”) between
-\_\_\_\_\_\_\_ (“**Customer**”) and Schematic Inc. (“**Provider**”)
-governing Customers’ purchase and use of Provider’s services.
-
-By signing below, each party acknowledges that it has carefully read and
-fully understood this DPA, and each agrees to be bound by the terms of
-this DPA.
-
-|                    |                  |                     |     |
-|--------------------|------------------|---------------------|-----|
-| **Schematic Inc.** |                  | **Customer Inc.**   |     |
-| By:                | \[               | By:                 | \[  |
-| Name:              | \[Jasdeep Garcha | Name:               | \]  |
-| Title:             | \[Co-Founder     | Title:              | \[  |
-| Date               |                  | Date:               |     |
-|                    |                  | Approved for Legal: | \]  |
-
-1.  **PURPOSE AND SCOPE**
+# 1.  **PURPOSE AND SCOPE**
 
 In the course of providing the Services to Customer under the Agreement,
 Provider will Process Customer Data on Customer’s behalf. Customer Data
@@ -32,7 +14,7 @@ pursuant to the Agreement and describes the appropriate technical and
 organizational measures taken by Customer in processing Personal Data.
 This DPA will control in the event of any conflict with the Agreement.
 
-2.  **DEFINITIONS**
+# 2.  **DEFINITIONS**
 
     1.  **“Customer Data**” means all Customer data that Provider
         receives while providing the Services.
@@ -85,9 +67,9 @@ This DPA will control in the event of any conflict with the Agreement.
         third-party service providers that Process Customer Data for
         Customer.
 
-3.  **PROCESSING OF CUSTOMER DATA**
+# 3.  **PROCESSING OF CUSTOMER DATA**
 
-    1.  **Data Processing Roles.** As between Provider and Customer,
+## 1.  **Data Processing Roles.** As between Provider and Customer,
         Customer is the Data Controller of Customer Data and Provider is
         the Data Processor. Customer controls the categories of Data
         Subjects and Personal Data Processed under the Agreement and
