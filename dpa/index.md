@@ -191,20 +191,15 @@ data to Provider's knowledge.
 
 Pseudonymization is not provided by the Provider, but any personal data sent to the Provider can be pre-processed by Customer to ensure pseudonymization if needed. All data, both at rest and in transit, is encrypted using industry-standard encryption algorithms and protocols.
 
-## 2.  **MEASURES FOR ENSURING ONGOING CONFIDENTIALITY, INTEGRITY, AND
-    AVAILABILITY AND RESILIENCE OF PROCESSING SYSTEMS AND SERVICES**
+## 2.  **MEASURES FOR ENSURING ONGOING CONFIDENTIALITY, INTEGRITY, AND AVAILABILITY AND RESILIENCE OF PROCESSING SYSTEMS AND SERVICES**
 
 All data, both at rest and in transit, is encrypted using industry-standard algorithms and protocols. Access to API systems is provided using API keys that are scoped by account (i.e., customer) and environment within that account. All infrastructure is kept up to date with the latest versions and security patches.
 
-## 3.  **MEASURES FOR ENSURING THE ABILITY TO RESTORE AVAILABILITY AND
-    ACCESS TO PERSONAL DATA IN A TIMELY MANNER IN THE EVENT OF A
-    PHYSICAL OR TECHNICAL INCIDENT.**
+## 3.  **MEASURES FOR ENSURING THE ABILITY TO RESTORE AVAILABILITY AND ACCESS TO PERSONAL DATA IN A TIMELY MANNER IN THE EVENT OF A PHYSICAL OR TECHNICAL INCIDENT.**
 
 All data is backed up periodically.
 
-## 4.  **PROCESS FOR REGULAR TESTING, ASSESSING AND EVALUATING THE
-    EFFECTIVENESS OF TECHNICAL AND ORGANISATIONAL MEASURES IN ORDER TO
-    ENSURE THE SECURITY OF PROCESSING**
+## 4.  **PROCESS FOR REGULAR TESTING, ASSESSING AND EVALUATING THE EFFECTIVENESS OF TECHNICAL AND ORGANISATIONAL MEASURES IN ORDER TO ENSURE THE SECURITY OF PROCESSING**
 
 See the Provider's Security policy here: https://docs.schematichq.com/security
 
@@ -220,8 +215,7 @@ All data is encrypted using industry-standard encryption algorithms and protocol
 
 All data is encrypted using industry-standard encryption algorithms and protocols during storage.
 
-## 8.  **MEASURES FOR ENSURING PHYSICAL SECURITY OF LOCATIONS AT WHICH
-    PERSONAL DATA ARE PROCESSED**
+## 8.  **MEASURES FOR ENSURING PHYSICAL SECURITY OF LOCATIONS AT WHICH PERSONAL DATA ARE PROCESSED**
 
 The Provider have a comprehensive remote work policy that mandates secure work environments for all team members, including encrypted disks and machine locking.
 
@@ -229,13 +223,11 @@ The Provider have a comprehensive remote work policy that mandates secure work e
 
 Access, event, and server logging is implemented for all services.
 
-## 10. **MEASURES FOR ENSURING SYSTEM CONFIGURATION, INCLUDING DEFAULT
-    CONFIGURATION**
+## 10. **MEASURES FOR ENSURING SYSTEM CONFIGURATION, INCLUDING DEFAULT CONFIGURATION**
 
 System configuration is managed via environment variables that are deployed by environment. Default configuration is defined in code.
 
-## 11. **MEASURES FOR INTERNAL IT AND IT SECURITY GOVERNANCE AND
-    MANAGEMENT**
+## 11. **MEASURES FOR INTERNAL IT AND IT SECURITY GOVERNANCE AND MANAGEMENT**
 
 Only privileged internal users have access to IT assets at Schematic, and that is limited to the executive team at this time.
 
@@ -265,11 +257,7 @@ Data deletion requests can be submitted to <support@schematichq.com>. Internal o
 
 The Customer can achieve data portability for some resources via Schematic’s API.
 
-## 18. **FOR TRANSFER TO SUB-PROCESSORS, ALSO DESCRIBE THE SPECIFIC
-    TECHNICAL AND ORGANISATIONAL MEASURES TO BE TAKEN BY THE
-    SUB-PROCESSOR TO BE ABLE TO PROVIDE ASSISTANCE TO THE CONTROLLER
-    AND, FOR TRANSFERS FROM A PROCESSOR TO A SUB-PROCESSOR, TO THE DATA
-    EXPORTER**
+## 18. **FOR TRANSFER TO SUB-PROCESSORS, ALSO DESCRIBE THE SPECIFIC TECHNICAL AND ORGANISATIONAL MEASURES TO BE TAKEN BY THE SUB-PROCESSOR TO BE ABLE TO PROVIDE ASSISTANCE TO THE CONTROLLER AND, FOR TRANSFERS FROM A PROCESSOR TO A SUB-PROCESSOR, TO THE DATA EXPORTER**
 
 Fivetran is a subprocessor for the Provider. The Provider does not transfer data as a processor to any subprocessor, but Fivetran transfers data to the Provider.
 
