@@ -2,6 +2,8 @@
 
 # Cloud Service Agreement
 
+*The Cloud Services Agreement (CSA) should be accompanied by an Order Form*
+
 # 1. **Service**
 
 ## 1.1 Access and Use. 

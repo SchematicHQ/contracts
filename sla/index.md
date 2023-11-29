@@ -2,6 +2,8 @@
 
 # Service Level Agreement
 
+This Service Level Agreement ("SLA") is incorporated into and supplements the Cloud Services Agreement (“Agreement”) between you (“Customer”) and Schematic Inc. (“Provider”) governing Customers’ purchase and use of Provider’s services.
+
 # 1. **Uptime** 
 
 ## 1.1 Target Uptime. 
