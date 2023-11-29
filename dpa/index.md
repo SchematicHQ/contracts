@@ -1,5 +1,7 @@
 # DATA PROCESSING ADDENDUM
 
+This Data Processing Addendum (“DPA”) is incorporated into and supplements the Cloud Services Agreement (“Agreement”) between you (“Customer”) and Schematic Inc. (“Provider”) governing Customers’ purchase and use of Provider’s services.
+
 ## 1.  **PURPOSE AND SCOPE**
 
 In the course of providing the Services to Customer under the Agreement,
