@@ -1,3 +1,5 @@
+*Last updated: November 28, 2023*
+
 # Cloud Service Agreement
 
 # 1. **Service**
