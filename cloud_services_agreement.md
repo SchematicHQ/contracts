@@ -209,55 +209,55 @@ This Agreement may be signed in counterparts, including by electronic copies or 
 
 14.1 “**Affiliate**” means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.
 
-## 14.2 “**Agreement**” means these Standard Terms, together with the Cover Pages between **Provider** and **Customer** that include or reference a single set of Key Terms and the policies and documents referenced in or attached to those Cover Pages.
+14.2 “**Agreement**” means these Standard Terms, together with the Cover Pages between **Provider** and **Customer** that include or reference a single set of Key Terms and the policies and documents referenced in or attached to those Cover Pages.
 
-## 14.3 “**Applicable Data Protection Laws**” means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term.
+14.3 “**Applicable Data Protection Laws**” means the Applicable Laws that govern how the Cloud Service may process or use an individual’s personal information, personal data, personally identifiable information, or other similar term.
 
-## 14.4 “**Applicable Laws**” means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern **Provider** or **Customer**.
+14.4 “**Applicable Laws**” means the laws, rules, regulations, court orders, and other binding requirements of a relevant government authority that apply to or govern **Provider** or **Customer**.
 
-## 14.5 “**Cloud Service**” means the product described in an Order Form.
+14.5 “**Cloud Service**” means the product described in an Order Form.
 
-## 14.6 “**Confidential Information**” means information in any form disclosed by or on behalf of a Discloser, including before the **Effective Date**, to a Recipient in connection with this Agreement that (a) the Discloser identifies as “confidential”, “proprietary”, or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. **Customer’s** Confidential Information includes non-public Customer Content and **Provider’s** Confidential Information includes non-public information about the Product.
+14.6 “**Confidential Information**” means information in any form disclosed by or on behalf of a Discloser, including before the **Effective Date**, to a Recipient in connection with this Agreement that (a) the Discloser identifies as “confidential”, “proprietary”, or the like; or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. Confidential Information includes the existence of this Agreement and the information on each Cover Page. **Customer’s** Confidential Information includes non-public Customer Content and **Provider’s** Confidential Information includes non-public information about the Product.
 
-## 14.7 “**Cover Page**” means a document that is signed or electronically accepted by the parties that incorporates these Standard Terms, identifies **Provider** and **Customer**, and may include an Order Form, Key Terms, or both.
+14.7 “**Cover Page**” means a document that is signed or electronically accepted by the parties that incorporates these Standard Terms, identifies **Provider** and **Customer**, and may include an Order Form, Key Terms, or both.
 
-## 14.8 “**Covered Claim**” means either a **Provider Covered Claim** or **Customer Covered Claim**.
+14.8 “**Covered Claim**” means either a **Provider Covered Claim** or **Customer Covered Claim**.
 
-## 14.9 “**Customer Content**” means data, information, or materials submitted by or on behalf of **Customer** or Users to the Product but excludes Feedback.
+14.9 “**Customer Content**” means data, information, or materials submitted by or on behalf of **Customer** or Users to the Product but excludes Feedback.
 
-## 14.10 “**Discloser**” means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party.
+14.10 “**Discloser**” means a party to this Agreement when the party is providing or disclosing Confidential Information to the other party.
 
-## 14.11 “**Documentation**” means the usage manuals and instructional materials for the Cloud Service or Software that are made available by **Provider**.
+14.11 “**Documentation**” means the usage manuals and instructional materials for the Cloud Service or Software that are made available by **Provider**.
 
-## 14.12 “**Feedback**” means suggestions, feedback, or comments about the Product or related offerings.
+14.12 “**Feedback**” means suggestions, feedback, or comments about the Product or related offerings.
 
-## 14.13 “**Force Majeure Event**” means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disaster like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure.
+14.13 “**Force Majeure Event**” means an unforeseen event outside a party’s reasonable control where the affected party took reasonable measures to avoid or mitigate the impacts of the event. Examples of these kinds of events include unpredicted natural disaster like a major earthquake, war, pandemic, riot, act of terrorism, or public utility or internet failure.
 
-## 14.14 “**GDPR**” means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.
+14.14 “**GDPR**” means European Union Regulation 2016/679 as implemented by local law in the relevant European Union member nation, and by section 3 of the United Kingdom’s European Union (Withdrawal) Act of 2018 in the United Kingdom.
 
-## 14.15 “**High Risk Activity**” means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control.
+14.15 “**High Risk Activity**” means any situation where the use or failure of the Product could be reasonably expected to lead to death, bodily injury, or environmental damage. Examples include full or partial autonomous vehicle technology, medical life-support technology, emergency response services, nuclear facilities operation, and air traffic control.
 
-## 14.16 “**Indemnifying Party**” means a party to this Agreement when the party is providing protection for a particular Covered Claim.
+14.16 “**Indemnifying Party**” means a party to this Agreement when the party is providing protection for a particular Covered Claim.
 
-## 14.17 "**Key Terms**” means the portion of a Cover Page that includes the key legal details and definitions for this Agreement that are not defined in the Standard Terms. The Key Terms may include details about Covered Claims, set the **Governing Law**, or contain other details about this Agreement.
+14.17 "**Key Terms**” means the portion of a Cover Page that includes the key legal details and definitions for this Agreement that are not defined in the Standard Terms. The Key Terms may include details about Covered Claims, set the **Governing Law**, or contain other details about this Agreement.
 
-## 14.18 “**Order Form**” means the portion of a Cover Page that includes the key business details and definitions for this Agreement that are not defined in the Standard Terms. An Order Form may include details about the level of access and use granted to the Cloud Service, nature and timing of **Professional Services**, extent of **Technical Support**, or other details about the Product.
+14.18 “**Order Form**” means the portion of a Cover Page that includes the key business details and definitions for this Agreement that are not defined in the Standard Terms. An Order Form may include details about the level of access and use granted to the Cloud Service, nature and timing of **Professional Services**, extent of **Technical Support**, or other details about the Product.
 
-## 14.19 “**Personal Data**” will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.
+14.19 “**Personal Data**” will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.
 
-## 14.20 "**Product**” means the Cloud Service, Software, and Documentation.
+14.20 "**Product**” means the Cloud Service, Software, and Documentation.
 
-## 14.21 “**Prohibited Data**” means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.
+14.21 “**Prohibited Data**” means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver’s license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.
 
-## 14.22 “**Protected Party**” means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.
+14.22 “**Protected Party**” means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.
 
-## 14.23 “**Recipient**” means a party to this Agreement when the party receives Confidential Information from the other party.
+14.23 “**Recipient**” means a party to this Agreement when the party receives Confidential Information from the other party.
 
-## 14.24 “**Software**” means the client-side software or applications made available by **Provider** for **Customer** to install, download (whether onto a machine or in a browser), or execute as part of the Product.
+14.24 “**Software**” means the client-side software or applications made available by **Provider** for **Customer** to install, download (whether onto a machine or in a browser), or execute as part of the Product.
 
-## 14.25 “**Usage Data**” means data and information about the provision, use, and performance of the Product and related offerings based on **Customer’s** or User’s use of the Product. 
+14.25 “**Usage Data**” means data and information about the provision, use, and performance of the Product and related offerings based on **Customer’s** or User’s use of the Product. 
 
-## 14.26 “**User**” means any individual who uses the Product on **Customer’s** behalf or through **Customer’s** account.
+14.26 “**User**” means any individual who uses the Product on **Customer’s** behalf or through **Customer’s** account.
 
 # Service Level Agreement
 
