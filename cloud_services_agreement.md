@@ -207,7 +207,7 @@ This Agreement may be signed in counterparts, including by electronic copies or 
 
 # 14. **Definitions**.
 
-## 14.1 “**Affiliate**” means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.
+14.1 “**Affiliate**” means an entity that, directly or indirectly, controls, is under the control of, or is under common control with a party, where control means having more than fifty percent (50%) of the voting stock or other ownership interest.
 
 ## 14.2 “**Agreement**” means these Standard Terms, together with the Cover Pages between **Provider** and **Customer** that include or reference a single set of Key Terms and the policies and documents referenced in or attached to those Cover Pages.
 
