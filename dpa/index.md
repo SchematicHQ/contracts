@@ -259,7 +259,7 @@ The Customer can achieve data portability for some resources via Schematic’s A
 
 ## 18. **FOR TRANSFER TO SUB-PROCESSORS, ALSO DESCRIBE THE SPECIFIC TECHNICAL AND ORGANISATIONAL MEASURES TO BE TAKEN BY THE SUB-PROCESSOR TO BE ABLE TO PROVIDE ASSISTANCE TO THE CONTROLLER AND, FOR TRANSFERS FROM A PROCESSOR TO A SUB-PROCESSOR, TO THE DATA EXPORTER**
 
-Fivetran is a subprocessor for the Provider. The Provider does not transfer data as a processor to any subprocessor, but Fivetran transfers data to the Provider.
+The Provider does not transfer data as a processor to any subprocessor.
 
 # **EXHIBIT C – ADDITIONAL TERMS FOR DATA TRANSFERS**
 
@@ -300,9 +300,10 @@ Module Two (Controller to Processor) will apply where Customer is the Data Contr
     is deemed to have signed these Standard Contractual Clauses,
     including their Annexes, as of the Effective Date.
 
-(e) Data Importer: <span class="mark">Fivetran</span>
+(e) Data Importer: Customer and its authorized Affiliates.
 
-(f) Contact Details: +1 (415) 805-2799
+(f) Contact Details: Customer’s account address and
+    legal@customer.com.
 
 (g) Data Importer Role: Data Importer’s role is described in section
     3.1 (Data Processing Roles) of the DPA.
@@ -341,8 +342,6 @@ Module Two (Controller to Processor) will apply where Customer is the Data Contr
 
 ### 1.6 **Annex II.** Exhibit B serves as Annex II of the Standard
     Contractual Clauses.
-
-### 1.7 **Annex III.** Fivetran
 
 ## 2.  **TRANSFERS FROM THE UNITED KINGDOM.**
 
