@@ -337,11 +337,9 @@ Module Two (Controller to Processor) will apply where Customer is the Data Contr
     sub-processor to Schematic via replication to Postrges database;
     duration is continuous synchronization
 
-### 1.5  **Annex I, Part C.** The Irish Data Protection Commission will be
-    the competent supervisory authority.
+### 1.5  **Annex I, Part C.** The Irish Data Protection Commission will be the competent supervisory authority.
 
-### 1.6 **Annex II.** Exhibit B serves as Annex II of the Standard
-    Contractual Clauses.
+### 1.6 **Annex II.** Exhibit B serves as Annex II of the Standard Contractual Clauses.
 
 ## 2.  **TRANSFERS FROM THE UNITED KINGDOM.**
 
