@@ -113,7 +113,7 @@ If **Provider** breaches a warranty in Section 7.3, **Customer** must give **Pro
 # 9. **Limitation of Liability**
 
 ## 9.1 Liability Caps. 
-**Each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the General Cap Amount.**
+**Each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the fees paid by Customer to Provider in the 12 month period immediately before the claim.**
 
 ## 9.2 Damages Waiver. 
 **Each party’s liability for any claim or liability arising out of or relating to this Agreement will be limited to the fullest extent permitted by Applicable Laws. Under no circumstances will either party be liable to the other for lost profits or revenues, or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.**
@@ -168,7 +168,7 @@ This Agreement is the only agreement between the parties about its subject and t
 Any waiver, modification, or change to the Agreement must be in writing and signed or electronically accepted by each party. However, **Provider** may update **Technical Support**, the **SLA**, the **Security Policy**, or the **Acceptable Use Policy** by giving **Customer** 30 days prior notice. During the 30-day notice period, **Customer** may terminate the Agreement or affected Order Form upon notice if the update is a material reduction from the prior version and Provider cannot reasonably restore the prior version or a comparable alternative. If any term of this Agreement is determined to be invalid or unenforceable by a relevant court or governing body, the remaining terms of this Agreement will remain in full force and effect. The failure of a party to enforce a term or to exercise an option or right in this Agreement will not constitute a waiver by that party of the term, option, or right.
 
 ## 13.3 Governing Law and Chosen Courts. 
-The **Governing Law** will govern all interpretations and disputes about this Agreement, without regard to its conflict of laws provisions. The parties will bring any legal suit, action, or proceeding about this Agreement in the **Chosen Courts** and each party irrevocably submits to the exclusive jurisdiction of the **Chosen Courts**.
+The laws of the State of Deleware will govern all interpretations and disputes about this Agreement, without regard to its conflict of laws provisions. The parties will bring any legal suit, action, or proceeding about this Agreement in the state and federal courts located in Deleware and each party irrevocably submits to the exclusive jurisdiction of the state and federal courts located in Deleware.
 
 ## 13.4 Injunctive Relief. 
 Despite Section 13.3 (Governing Law and Chosen Courts), a breach of Section 11 (Confidentiality) or the violation of a party’s intellectual property rights may cause irreparable harm for which monetary damages cannot adequately compensate. As a result, upon the actual or threatened breach of Section 11 (Confidentiality) or violation of a party’s intellectual property rights, the non-breaching or non-violating party may seek appropriate equitable relief, including an injunction, in any court of competent jurisdiction without the need to post a bond and without limiting its other rights or remedies.
@@ -225,7 +225,11 @@ This Agreement may be signed in counterparts, including by electronic copies or 
 
 14.7 “**Cover Page**” means a document that is signed or electronically accepted by the parties that incorporates these Standard Terms, identifies **Provider** and **Customer**, and may include an Order Form, Key Terms, or both.
 
-14.8 “**Covered Claim**” means either a **Provider Covered Claim** or **Customer Covered Claim**.
+14.8 “**Covered Claim**” means either a **Provider Covered Claim** or **Customer Covered Claim**:
+
+(a)	Provider Covered Claims: Any action, proceeding, or claim that the Cloud Service, when used by Customer according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights.
+
+(b)	Customer Covered Claims: Any action, proceeding, or claim that (1) the Customer Content, when used according to the terms of the Agreement, violates, misappropriates, or otherwise infringes upon anyone else’s intellectual property or other proprietary rights; or (2) results from Customer’s breach or alleged breach of Section 2.1 (Restrictions on Customer).
 
 14.9 “**Customer Content**” means data, information, or materials submitted by or on behalf of **Customer** or Users to the Product but excludes Feedback.
 
