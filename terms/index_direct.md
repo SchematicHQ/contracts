@@ -247,7 +247,7 @@ This Agreement may be signed in counterparts, including by electronic copies or 
 
 14.16 “**Indemnifying Party**” means a party to this Agreement when the party is providing protection for a particular Covered Claim.
 
-14.17 "**Key Terms**” means the portion of a Cover Page that includes the key legal details and definitions for this Agreement that are not defined in the Standard Terms. The Key Terms may include details about Covered Claims, set the **Governing Law**, or contain other details about this Agreement.
+14.17 "**Key Terms**” means the portion of a Cover Page that includes the key legal details and definitions for this Agreement that are not defined in the Standard Terms. The Key Terms may include details about Covered Claims or contain other details about this Agreement.
 
 14.18 “**Order Form**” means the portion of a Cover Page that includes the key business details and definitions for this Agreement that are not defined in the Standard Terms. An Order Form may include details about the level of access and use granted to the Cloud Service, nature and timing of **Professional Services**, extent of **Technical Support**, or other details about the Product.
 
