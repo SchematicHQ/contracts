@@ -18,7 +18,13 @@ If **Provider** does not notify **Customer** about Scheduled Downtime before the
 # 2. **Remedies**
 
 ## 2.1 Service Credit. 
-If Cloud Service availability falls below the **Target Uptime**, **Customer** is eligible to receive a **Service Credit**, if any. **Service Credits** only apply towards future Cloud Service fees owed by **Customer** to **Provider** 
+If Cloud Service availability falls below the Target Uptime, Customer is eligible to receive a Service Credit, if any. Service Credits only apply towards future Cloud Service fees owed by Customer to Provider.  If you are entitled to a Service Credit three months out of any 12-month period, or the Cloud Service is availability is less than 90% in any month, then Customer may terminate the Agreement and receive a refund of the unused portion of any subscription fees.
+
+| Monthly Availability  | Service Credit|
+| ------------- | ------------- |
+| Equal to or greater than 99.0 but less than 99.99  | 5% |
+| Equal to or greater than 95.0 but less than 99.0  | 10% |
+| Less than 95.0 | 25% |
 
 ## 2.2 Requesting A Service Credit. 
 To receive a **Service Credit**, **Customer** must notify **Provider** within 7 days of the end of the month where **Customer** experienced Cloud Service unavailability, otherwise **Service Credit** eligibility will expire for that month. **Customer** must include information about when it was unable to access the Cloud Service and may be required to provide additional details about its attempts to access the Cloud Service. If **Provider** can verify Cloud Service unavailability in its internal monitoring systems and the disruption does not qualify as Excluded Minutes or Scheduled Downtime, **Provider** will calculate and issue the applicable **Service Credit** on **Customer’s** account to apply towards a future invoice. 
